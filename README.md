@@ -38,3 +38,7 @@ Add filtering by actors, directors, or release year.
 Integrate user feedback and personalization using collaborative filtering.
 
 Use deep learning for more dynamic recommendations.
+
+
+![image](https://github.com/user-attachments/assets/96a22d74-2edb-40d7-917d-aaf08c0ee795)
+
